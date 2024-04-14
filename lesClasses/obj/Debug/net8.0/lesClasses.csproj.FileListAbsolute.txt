@@ -1,0 +1,14 @@
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\bin\Debug\net8.0\lesClasses.exe
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\bin\Debug\net8.0\lesClasses.deps.json
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\bin\Debug\net8.0\lesClasses.runtimeconfig.json
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\bin\Debug\net8.0\lesClasses.dll
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\bin\Debug\net8.0\lesClasses.pdb
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.AssemblyInfoInputs.cache
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.AssemblyInfo.cs
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.csproj.CoreCompileInputs.cache
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.dll
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\refint\lesClasses.dll
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.pdb
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\lesClasses.genruntimeconfig.cache
+C:\Users\Siwar\formation\QuetesC#\lesClasses\lesClasses\obj\Debug\net8.0\ref\lesClasses.dll
